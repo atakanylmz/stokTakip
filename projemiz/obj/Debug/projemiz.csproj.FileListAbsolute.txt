@@ -1,0 +1,20 @@
+C:\Users\Serap\Desktop\nesne\proje\projemiz\projemiz\bin\Debug\projemiz.exe.config
+C:\Users\Serap\Desktop\nesne\proje\projemiz\projemiz\bin\Debug\projemiz.exe
+C:\Users\Serap\Desktop\nesne\proje\projemiz\projemiz\bin\Debug\projemiz.pdb
+C:\Users\Serap\Desktop\nesne\proje\projemiz\projemiz\obj\Debug\projemiz.csprojResolveAssemblyReference.cache
+C:\Users\Serap\Desktop\nesne\proje\projemiz\projemiz\obj\Debug\projemiz.GirişEkranı.resources
+C:\Users\Serap\Desktop\nesne\proje\projemiz\projemiz\obj\Debug\projemiz.Properties.Resources.resources
+C:\Users\Serap\Desktop\nesne\proje\projemiz\projemiz\obj\Debug\projemiz.csproj.GenerateResource.Cache
+C:\Users\Serap\Desktop\nesne\proje\projemiz\projemiz\obj\Debug\projemiz.exe
+C:\Users\Serap\Desktop\nesne\proje\projemiz\projemiz\obj\Debug\projemiz.pdb
+C:\Users\Serap\Desktop\nesne\proje\projemiz\projemiz\obj\Debug\projemiz.YetkiliEkranı.resources
+C:\Users\Serap\Desktop\Git için\projemiz261220161343\projemiz\projemiz\bin\Debug\projemiz.exe.config
+C:\Users\Serap\Desktop\Git için\projemiz261220161343\projemiz\projemiz\obj\Debug\projemiz.exe
+C:\Users\Serap\Desktop\Git için\projemiz261220161343\projemiz\projemiz\obj\Debug\projemiz.pdb
+C:\Users\Serap\Desktop\Git için\projemiz261220161343\projemiz\projemiz\bin\Debug\projemiz.exe
+C:\Users\Serap\Desktop\Git için\projemiz261220161343\projemiz\projemiz\bin\Debug\projemiz.pdb
+C:\Users\Serap\Desktop\Git için\projemiz261220161343\projemiz\projemiz\obj\Debug\projemiz.csprojResolveAssemblyReference.cache
+C:\Users\Serap\Desktop\Git için\projemiz261220161343\projemiz\projemiz\obj\Debug\projemiz.GirişEkranı.resources
+C:\Users\Serap\Desktop\Git için\projemiz261220161343\projemiz\projemiz\obj\Debug\projemiz.Properties.Resources.resources
+C:\Users\Serap\Desktop\Git için\projemiz261220161343\projemiz\projemiz\obj\Debug\projemiz.YetkiliEkranı.resources
+C:\Users\Serap\Desktop\Git için\projemiz261220161343\projemiz\projemiz\obj\Debug\projemiz.csproj.GenerateResource.Cache
